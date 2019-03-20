@@ -1,2 +1,0 @@
-# Darknet-YOLO-Detection
-
